@@ -14,5 +14,5 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
 
 PRODUCT_GMS_CLIENTID_BASE := android-samsung
 
-PRODUCT_NAME := fusionsp_jfltespr
+PRODUCT_NAME := jfltespr
 PRODUCT_DEVICE := jfltespr
